@@ -1,0 +1,30 @@
+.dark {
+  font-weight: bold;
+}
+.light {
+  font-weight: bold;
+}
+.sidebartop {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+  margin: none;
+  border-radius: 10px;
+  text-align: left;
+  height: fit-content;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  width: 12rem;
+}
+
+.sidebartop p {
+  margin-left: none;
+  font-weight: 600;
+  font-size: 11px;
+}
+.sidebartop .MuiSvgIcon-root {
+  font-size: large;
+}
+
+

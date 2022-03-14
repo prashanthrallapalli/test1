@@ -1,0 +1,12 @@
+.widget .widget__top {
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 40px;
+    position: sticky;
+    width: 30rem;
+  }
+  .widget__top .MuiSvgIcon-root {
+    font-size: smaller;
+  }
+  

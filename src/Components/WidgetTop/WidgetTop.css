@@ -1,0 +1,14 @@
+.dark {
+    font-weight: bold;
+    padding-left: 20px;
+  }
+  .light {
+    font-weight: normal;
+    font-size: small;
+    padding-left: 20px;
+  }
+  .heading {
+    font-weight: bold;
+    padding-left: 20px;
+  }
+  

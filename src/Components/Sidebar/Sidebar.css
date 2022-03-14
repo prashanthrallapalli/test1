@@ -1,0 +1,7 @@
+.sidebar__top {
+  border-radius: 10px;
+  background-color: violet;
+  margin-left: 20px;
+  margin-top: 30px;
+  position: sticky;
+}
