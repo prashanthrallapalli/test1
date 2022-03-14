@@ -22,7 +22,7 @@ const Feed = () => {
         )
          })
     },[])  
-      console.log('test', posts);
+      console.log(posts);
     return (
         <div className="feed">
         <PostUploader />       
