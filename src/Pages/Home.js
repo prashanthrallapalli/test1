@@ -13,7 +13,7 @@ const Home = () => {
         {!user ? (
         <Login/> ): (
         
-        //React Fragments
+        
         <>
         <Header />
         <div className='app__body'>
